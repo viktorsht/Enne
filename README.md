@@ -1,2 +1,2 @@
 # Enne
-## YouTube Downloader
+## Enne é um YouTube Downloader comproposta nativa para Linux e Windowns
