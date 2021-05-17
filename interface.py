@@ -17,7 +17,7 @@ Janela.setStyleSheet("background: #161219")
 
 #definição de layort
 Grid = QGridLayout()
-logo_image = QPixmap("logo.png")
+logo_image = QPixmap("src/logo.png")
 logo_set = QLabel()
 logo_set.setPixmap(logo_image)
 logo_set.setAlignment(QtCore.Qt.AlignmentFlag.AlignLeft)
